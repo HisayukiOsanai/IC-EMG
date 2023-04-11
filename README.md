@@ -32,16 +32,20 @@ Output:
       Weight distribution of each IC is shown in each column of "mixing" matrix.          
   
   ICEMG:  IC-EMG, identified with uniformity of IC weight distribution.
-  ICEMGi: Index of IC-EMG in ICs.
+  ICEMGi: Index of IC-EMG in ICs.  
+  
+Examples:    
+Raw LFP (skull-screw referenced):  
+<img src="https://user-images.githubusercontent.com/60276754/231026752-40bd2b91-3727-4023-8b85-a0f9de476b3e.png"  width="300" height="500">
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/60276754/231026752-40bd2b91-3727-4023-8b85-a0f9de476b3e.png)" width="100" height="100">
+Independent components (red label indicates IC-EMG):  
+<img src="https://user-images.githubusercontent.com/60276754/231026876-833dbd15-f43e-4453-83a8-895f3ea737ee.png"  width="300" height="500">
 
-![RawLFP](https://user-images.githubusercontent.com/60276754/231026752-40bd2b91-3727-4023-8b85-a0f9de476b3e.png)
+Weight distributions of ICs:  
+<img src="https://user-images.githubusercontent.com/60276754/231026943-6198d1c6-d3cb-4778-bc6c-f4c37413c8c7.png"  width="300" height="500">
+<img src="https://user-images.githubusercontent.com/60276754/231026971-1385883f-40e6-408e-afc8-36f15a46a8c4.png"  width="200" height="150">  
+most-uniform (bottom-right) IC is identified as IC-EMG.
 
-![ICs_normalized](https://user-images.githubusercontent.com/60276754/231026876-833dbd15-f43e-4453-83a8-895f3ea737ee.png)
-
-![ICweights](https://user-images.githubusercontent.com/60276754/231026943-6198d1c6-d3cb-4778-bc6c-f4c37413c8c7.png)
-
-![scatter of weight distribution](https://user-images.githubusercontent.com/60276754/231026971-1385883f-40e6-408e-afc8-36f15a46a8c4.png)
-
-![ICEMG](https://user-images.githubusercontent.com/60276754/231027233-59759fef-26f0-443f-be62-6539ae686964.png)
+  
+IC-EMG and real-EMGs:  
+<img src="https://user-images.githubusercontent.com/60276754/231027233-59759fef-26f0-443f-be62-6539ae686964.png"  width="300" height="200">
