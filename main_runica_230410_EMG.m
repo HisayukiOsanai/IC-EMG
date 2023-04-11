@@ -25,6 +25,8 @@
 %
 %   ICEMG:  IC-EMG, identified with uniformity of IC weight distribution.
 %   ICEMGi: Index of IC-EMG in ICs.
+% 
+% Hisayuki Osanai, 04/10/2023, Hisayuki.Osanai@utsouthwestern.edu
 
 
 close all
