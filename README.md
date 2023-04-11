@@ -1,5 +1,5 @@
 # IC-EMG
-extract EMG signal from skull-screw-referenced LFP data using ICA
+Extract EMG signal from skull-screw-referenced LFP data using ICA
 
 example data and results are placed in \example, and \results.
 
