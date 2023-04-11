@@ -33,3 +33,15 @@ Output:
   
   ICEMG:  IC-EMG, identified with uniformity of IC weight distribution.
   ICEMGi: Index of IC-EMG in ICs.
+
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/60276754/231026752-40bd2b91-3727-4023-8b85-a0f9de476b3e.png)" width="100" height="100">
+
+![RawLFP](https://user-images.githubusercontent.com/60276754/231026752-40bd2b91-3727-4023-8b85-a0f9de476b3e.png)
+
+![ICs_normalized](https://user-images.githubusercontent.com/60276754/231026876-833dbd15-f43e-4453-83a8-895f3ea737ee.png)
+
+![ICweights](https://user-images.githubusercontent.com/60276754/231026943-6198d1c6-d3cb-4778-bc6c-f4c37413c8c7.png)
+
+![scatter of weight distribution](https://user-images.githubusercontent.com/60276754/231026971-1385883f-40e6-408e-afc8-36f15a46a8c4.png)
+
+![ICEMG](https://user-images.githubusercontent.com/60276754/231027233-59759fef-26f0-443f-be62-6539ae686964.png)
