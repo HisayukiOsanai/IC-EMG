@@ -1,11 +1,12 @@
 # IC-EMG
-extract EMG signal from skull-screw-referenced LFP data using ICA
+Extract EMG signal from skull-screw-referenced LFP data using ICA.  
+Tha manuscript can be found here: https://www.biorxiv.org/content/10.1101/2022.11.15.516633v2.abstract
 
-example data and results are placed in \example, and \results.
 
-
+Example data and results are placed in \example, and \results.  
+  
+  
 main_runica_230410_EMG.m:
-
 This is an example code that shows how to extract EMG signals from
 skull-screw-referenced LFP data using independent component analysis (ICA). 
 
@@ -44,7 +45,7 @@ Independent components (red label indicates IC-EMG):
 Weight distributions of ICs:  
 <img src="https://user-images.githubusercontent.com/60276754/231026943-6198d1c6-d3cb-4778-bc6c-f4c37413c8c7.png"  width="300" height="500">
 <img src="https://user-images.githubusercontent.com/60276754/231026971-1385883f-40e6-408e-afc8-36f15a46a8c4.png"  width="200" height="150">  
-most-uniform (bottom-right) IC is identified as IC-EMG.
+most-uniform IC bottom-right of the scatter plot) is identified as IC-EMG.
 
   
 IC-EMG and real-EMGs:  
