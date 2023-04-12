@@ -45,7 +45,7 @@ Independent components (red label indicates IC-EMG):
 Weight distributions of ICs:  
 <img src="https://user-images.githubusercontent.com/60276754/231026943-6198d1c6-d3cb-4778-bc6c-f4c37413c8c7.png"  width="300" height="500">
 <img src="https://user-images.githubusercontent.com/60276754/231026971-1385883f-40e6-408e-afc8-36f15a46a8c4.png"  width="200" height="150">  
-most-uniform IC bottom-right of the scatter plot) is identified as IC-EMG.
+most-uniform IC (bottom-right of the scatter plot) is identified as IC-EMG.
 
   
 IC-EMG and real-EMGs:  
