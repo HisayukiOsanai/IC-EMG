@@ -1,7 +1,7 @@
 # IC-EMG
 Extract EMG signal from skull-screw-referenced LFP data using ICA.  
 Tha manuscript can be found here: https://www.biorxiv.org/content/10.1101/2022.11.15.516633v2.abstract
-
+                                  https://doi.org/10.1016/j.crmeth.2023.100482
 
 Example data and results are placed in \example, and \results.  
   
