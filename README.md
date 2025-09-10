@@ -2,7 +2,8 @@
 Extract EMG signal from skull-screw-referenced LFP data using ICA.  
 Tha manuscript can be found here: 
 Osanai H, Yamamoto J, Kitamura T. Extracting electromyographic signals from multi-channel LFPs using independent component analysis without direct muscular recording. Cell Rep Methods. 2023 May 17;3(6):100482. doi: 10.1016/j.crmeth.2023.100482. PMID: 37426755; PMCID: PMC10326347.
-https://doi.org/10.1016/j.crmeth.2023.100482
+https://doi.org/10.1016/j.crmeth.2023.100482 
+
 https://www.biorxiv.org/content/10.1101/2022.11.15.516633v2.abstract
                                   
 
